@@ -1,0 +1,5 @@
+{
+  "output": {
+    "summary": "      area            peri            shape              perm        \n Min.   : 1016   Min.   : 308.6   Min.   :0.09033   Min.   :   6.30  \n 1st Qu.: 5305   1st Qu.:1414.9   1st Qu.:0.16226   1st Qu.:  76.45  \n Median : 7487   Median :2536.2   Median :0.19886   Median : 130.50  \n Mean   : 7188   Mean   :2682.2   Mean   :0.21811   Mean   : 415.45  \n 3rd Qu.: 8870   3rd Qu.:3989.5   3rd Qu.:0.26267   3rd Qu.: 777.50  \n Max.   :12212   Max.   :4864.2   Max.   :0.46413   Max.   :1300.00  "
+  }
+}
